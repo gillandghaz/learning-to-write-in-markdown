@@ -28,16 +28,22 @@ Saya sedang belajar PostgreSQL.
 PostgreSQL adalah sistem manajemen database relasional.
 
 # PostgreSQL
-### Pengenalan
----
+
+## Pengenalan
+
 Saya sedang belajar **PostgreSQL**.
 
-Tiga hal yang ingin dipelajari:
-1. SELECT
-2. CRUD
-3. Operasi
+## Materi yang dipelajari
+
++ SELECT
++ CRUD
++ Operasi
+
+## Langkah awal
 
 Jalankan operasi berikut sebagai permulaan:
 ```sql
 SELECT * FROM mahasiswa;
 ```
+
+
